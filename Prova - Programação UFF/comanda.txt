@@ -1,0 +1,39 @@
+Posto de gasolina Meio do Dia
+
+Número de clientes
+5
+
+Cliente 1
+Nome: Carlos Alves
+Combustível: Gasolina Comum
+Valor Unitário: R$ 4.10
+Litros: 10
+Desconto do cartão: Sim 
+
+Cliente 2
+Nome: Maria Fernanda Siqueira
+Combustível: Gasolina Aditivada
+Valor Unitário: R$ 4.80
+Litros: 3
+Desconto do cartão: Não 
+
+Cliente 3
+Nome: Cláudio Fontes
+Combustível: Gasolina Comum
+Valor Unitário: R$ 3.90
+Litros: 30
+Desconto do cartão: Sim 
+
+Cliente 4
+Nome: Manoel Costa
+Combustível: Gasolina Comum
+Valor Unitário: R$ 4.10
+Litros: 12
+Desconto do cartão: não 
+
+Cliente 5
+Nome: Márcia Costa
+Combustível: Diesel
+Valor Unitário: R$ 4.50
+Litros: 8
+Desconto do cartão: Sim 

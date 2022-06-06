@@ -1,0 +1,21 @@
+Matrícula      		Nome do Aluno                Física II                     Cálculo II                    Programação        
+
+213045141		ALDREI 				2				0				9
+
+114045062		ANA  				4				9.5				8.5	
+
+114045068		BEATRIZ  			10				2.5				7	
+
+213045133		CINTHIA  			7.5				3.5				4.5	
+
+213039072		GIAN  				8				0.5				3.3	
+
+113052018		IGOR 				3				8.5				4.6
+
+110520293		MARCELO 			7				4				10
+
+114045025		PATRICK 			3				2				8	
+
+114045028		SUELEW   		 	6.5				3.5				6.5
+
+212052055		WAGNER  			6				1.2				10
