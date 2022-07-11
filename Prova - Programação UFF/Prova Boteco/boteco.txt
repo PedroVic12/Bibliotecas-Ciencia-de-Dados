@@ -1,0 +1,13 @@
+Dados do cliente da mesa 45
+Nome Emanuel juaquim 
+Bebida 			Quantidade 		Preco (em reais)
+Energético		 2			10,00
+Cerveja                  12			8,50
+Vodika			 1			12,00	
+Whisky			 3			22,50
+Agua			 1			1,99
+Refrigerante		 5			5,50
+
+O cliente aceita pagar os 10%?
+
+Sim
